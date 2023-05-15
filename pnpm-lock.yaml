@@ -3,10 +3,10 @@ lockfileVersion: '6.0'
 dependencies:
   '@othent/react-components':
     specifier: ^0.0.4
-    version: 0.0.4(othent@1.0.58)(react@18.2.0)
+    version: 0.0.4(othent@1.0.60)(react@18.2.0)
   othent:
-    specifier: ^1.0.58
-    version: 1.0.58
+    specifier: ^1.0.60
+    version: 1.0.60
   react:
     specifier: ^18.2.0
     version: 18.2.0
@@ -590,13 +590,13 @@ packages:
       fastq: 1.15.0
     dev: true
 
-  /@othent/react-components@0.0.4(othent@1.0.58)(react@18.2.0):
+  /@othent/react-components@0.0.4(othent@1.0.60)(react@18.2.0):
     resolution: {integrity: sha512-idU3t7AkjxnT/qKQY/h2WjJUce4xJgQRWFEGzCvunRxwIhgftFrDFC5wfu4xUaaZ3lkx8Vk6do7sG1GBCCJ2JA==}
     peerDependencies:
       othent: ^1.0.58
       react: ^18.2.0
     dependencies:
-      othent: 1.0.58
+      othent: 1.0.60
       react: 18.2.0
     dev: false
 
@@ -1523,8 +1523,8 @@ packages:
       word-wrap: 1.2.3
     dev: true
 
-  /othent@1.0.58:
-    resolution: {integrity: sha512-zeDW2wosCsqR/dBsGpHNjKYpXyYr6MNXYXE0WoW31pjM9rxDh2HsKauXpega+PPHcAYTVOn7Ai0q6ucYQvSNTw==}
+  /othent@1.0.60:
+    resolution: {integrity: sha512-aYm73cupjmZnuR1Iv7w+h50kwpAxfyJ3kbu5yNsTaemep6pNG9mJXKrc0Mwbue4MulwAsIBFYplM5mSPjppotw==}
     dependencies:
       '@auth0/auth0-spa-js': 2.0.4
       axios: 1.4.0
