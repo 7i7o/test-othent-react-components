@@ -10,8 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@othent/react-components": "^0.0.4",
-    "othent": "^1.0.60",
+    "@othent/react-components": "^0.0.5",
+    "othent": "^1.0.646",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
